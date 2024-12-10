@@ -1,4 +1,4 @@
-# EE4057 Final Project
+# EE4057 Final Project G6
 
 Author:
 - WU CHANG HSUN
