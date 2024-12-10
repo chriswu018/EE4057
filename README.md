@@ -1,14 +1,18 @@
 # EE4057 Final Project
 
 Author:
-- 吳昶勳
-- 蔡昀劭
-- 許禎勻
-- 傅皓群
-### Citation
+- WU CHANG HSUN
+- TSAI YUN SHAO
+- HSU CHEN YU
+- FU HAO CHUN
 
 > [!NOTE]
 > WE ARE BIOLAB DINNER PARTY
+> 
+> [!WARNING]
+> INTERESTING OHH~~~
+
+### Citation
 
 If you would like to use our dataset and code or refer to our paper, please cite as follows.
 ```bash
@@ -18,6 +22,3 @@ If you would like to use our dataset and code or refer to our paper, please cite
     year={2025}
 }
 ```
-> [!WARNING]
-> INTERESTING OHH~~~
-
