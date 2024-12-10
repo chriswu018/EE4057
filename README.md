@@ -1,5 +1,10 @@
 # EE4057 Final Project
-
+Author:
+B1090
+B1090
+B1090
+B10502139 許禎勻
+---
 ### Citation
 
 > [!NOTE]
