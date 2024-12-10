@@ -1,6 +1,6 @@
 # EE4057 Final Project
 
-# Citation
+### Citation
 
 > [!NOTE]
 > WE ARE BIOLAB DINNER PARTY
