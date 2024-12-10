@@ -1,7 +1,10 @@
 # EE4057 Final Project
 
 Author:
-
+- 吳昶勳
+- 蔡昀劭
+- 許禎勻
+- 傅皓群
 ### Citation
 
 > [!NOTE]
