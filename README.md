@@ -6,11 +6,8 @@ Author:
 - HSU CHEN YU
 - FU HAO CHUN
 
-> [!NOTE]
-> WE ARE BIOLAB DINNER PARTY
-
-> [!WARNING]
-> INTERESTING OHH~~~
+Project reports:
+https://drive.google.com/file/d/1VauKkiJHIPyAhuyVKrlq_5gqGLZElsCd/view?usp=sharing
 
 ### Citation
 
